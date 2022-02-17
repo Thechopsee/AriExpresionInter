@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "numpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "-f C:\\Users\\sebas\\source\\repos\\numpreter\\numpreter\\priklady.txt"
+    }
+  }
+}
